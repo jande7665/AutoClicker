@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/jacksonanderson/Projects/AutoClicker/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/AutoClicker.dir/main.cpp.o -c /Users/jacksonanderson/Projects/AutoClicker/main.cpp",
+  "file": "/Users/jacksonanderson/Projects/AutoClicker/main.cpp",
+  "output": "CMakeFiles/AutoClicker.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jacksonanderson/Projects/AutoClicker/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/AutoClicker.dir/MainWindow.cpp.o -c /Users/jacksonanderson/Projects/AutoClicker/MainWindow.cpp",
+  "file": "/Users/jacksonanderson/Projects/AutoClicker/MainWindow.cpp",
+  "output": "CMakeFiles/AutoClicker.dir/MainWindow.cpp.o"
+}
+]
